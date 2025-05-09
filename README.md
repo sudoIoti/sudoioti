@@ -6,46 +6,47 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redes-004d7a?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cybersecurity-00fff7?style=for-the-badge&logo=hackaday&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Shell_Script-1D2026?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-268BEB?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação-1D2026?style=for-the-badge&logo=automation&logoColor=white"/>
 </p>
 
 ---
 
 ### 👋 Sobre mim
 
-> Me chamo **IOTI**
+> Me chamo **Ioti**,  
 >  
 > ## ✨ **Ioti =)**
 >  
-> Um apaixonado por **Cybersecurity**, **Linux** e tudo que envolva rede, terminal e automação.
+> Um apaixonado por **Tecnologia**, com foco em **Segurança**, **Redes** e **Automação**.
 
-- 🖥️ Estudante de **Redes de Computadores**
-- 🧠 Explorando o universo da **Segurança de Redes**
-- 🧰 Automatizando com **Shell Script** e **n8n**
-- 💀 Trabalhando com **Kali Linux**, **Burp Suite**, **fail2ban**, **nmap**, **tcpdump** e mais
-- 🎯 Objetivo: Tornar sistemas e redes mais **seguros, rápidos e eficientes**
+- 📡 Estudante de **Redes de Computadores**
+- 🧠 Explorando o universo da **Infraestrutura de TI**
+- 🧰 Automatizando rotinas com **Shell Script**, **n8n** e **Linux**
+- 💀 Trabalhando com ferramentas como **Kali Linux**, **N8N**, **nmap**, **tcpdump**, **OpNSense**, entre outras
+- 🎯 Objetivo: Tornar sistemas mais **seguros**, redes mais **eficientes** e processos mais **inteligentes**
 
 ---
 
 ### 🧰 Tecnologias & Ferramentas
 
 ```bash
-# Kali Linux | Debian | Ubuntu | Bash | nmap | Wireshark | fail2ban | iptables
-# Metasploit | Docker | ZSH | Git | GitHub | Burp Suite | OpenVAS | netcat
+# Linux | Debian | Ubuntu | Kali | Bash | nmap | Wireshark | iptables
+#| Docker | Portainer | Shell | GitHub | Azure | n8n
 ```
 
 ---
 
-### 🎯 Objetivos atuais
+### 🎯 Áreas de interesse
 
-- 🧑‍💻 Dominar pentest ofensivo e defensivo
-- 📚 Compartilhar conhecimento com a comunidade (posts, projetos e scripts)
-- 🔐 Contribuir com projetos voltados à **segurança open-source**
-- 🤖 Criar ferramentas simples para ajudar técnicos e sysadmins
+- 🛡️ Segurança ofensiva e defensiva
+- 📡 Arquitetura e segurança de redes
+- 🤖 Automação de processos e monitoramento
+- 📈 Análise de tráfego e otimização de infraestrutura
 
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -53,6 +54,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudoioti&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoioti&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
 
 ---
 
